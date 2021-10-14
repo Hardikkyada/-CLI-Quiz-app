@@ -1,3 +1,3 @@
-# -CLI-Quiz-app
+# CLI-Quiz-app
 
-https://replit.com/@hrkyada007/PromotedModernAdministration
+[Play](https://replit.com/@hrkyada007/PromotedModernAdministration)
