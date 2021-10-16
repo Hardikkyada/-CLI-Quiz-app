@@ -7,4 +7,4 @@ This is a CLI app which tests your knowledge on Marvel Superheros.
 
 
 ## Coding
-[Click here](https://github.com/Hardikkyada/-CLI-Quiz-app/blob/main/index.js)
+[Click here](https://github.com/Hardikkyada/-CLI-Quiz-app/blob/main/index.js) to see Code!
